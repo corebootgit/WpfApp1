@@ -60,7 +60,7 @@ namespace WpfApp1
 
             // Set the width and height of the Ellipse.
             myEllipse.Width = slider.Value;
-            myEllipse.Height = 100;
+            myEllipse.Height = 50;
 
             // Add the Ellipse to the StackPanel.
             canvas1.Children.Add(myEllipse);
